@@ -1,0 +1,5 @@
+[![Gymnasium Logo](https://cdn.rawgit.com/gymnasium/gymnasium.github.io/master/assets/GYM-logo.svg)](http://thegymnasium.com)
+
+# Animated Banners with HTML5 Gym Short
+
+Repository for the upcoming [Gymnasium](http://thegymnasium.com) course.
